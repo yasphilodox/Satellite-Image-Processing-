@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves processing and analyzing satellite images to extract useful information. The main objective is to utilize various techniques for image analysis and manipulation, particularly focusing on RGB and BMP formats.
+This project involves processing and analyzing satellite images to extract useful information. ( zne urbaine , zone foreste , zone maritime ...Etc) The main objective is to utilize various techniques for image analysis and manipulation, particularly focusing on RGB and BMP formats.
 
 ## Directory Structure
 
